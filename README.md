@@ -1,4 +1,4 @@
-# electron_vue_test2
+# VideoPlayer
 
 ## Project setup
 ```
